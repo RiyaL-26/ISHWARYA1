@@ -1,0 +1,50 @@
+
+ /* General body styling */
+body {
+    background-color: #f0f8ff; /* Light blue background color */
+    font-family: Arial, sans-serif;
+    color: #333; /* Default text color */
+    margin: 20px; /* Add some margin for better spacing */
+}
+
+/* Center alignment */
+.center {
+    text-align: center;
+}
+
+/* Highlighted text with custom color */
+.highlight {
+    color: #ff6347; /* Tomato red text color */
+}
+
+/* Preformatted text styling */
+pre {
+    background-color: #f9f9f9; /* Light gray background */
+    padding: 10px; /* Add padding for better readability */
+    border: 1px solid #ccc; /* Add a border */
+    font-family: monospace; /* Use monospace font for preformatted text */
+}/* General body styling */
+body {
+    background-color: #f0f8ff; /* Light blue background color */
+    font-family: Arial, sans-serif;
+    color: #333; /* Default text color */
+    margin: 20px; /* Add some margin for better spacing */
+}
+
+/* Center alignment */
+.center {
+    text-align: center;
+}
+
+/* Highlighted text with custom color */
+.highlight {
+    color: #ff6347; /* Tomato red text color */
+}
+
+/* Preformatted text styling */
+pre {
+    background-color: #f9f9f9; /* Light gray background */
+    padding: 10px; /* Add padding for better readability */
+    border: 1px solid #ccc; /* Add a border */
+    font-family: monospace; /* Use monospace font for preformatted text */
+}   
